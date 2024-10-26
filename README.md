@@ -34,7 +34,7 @@ Muscle BioAmp Candy has been created using KiCad and all the design files can be
 
 | Licenses Facts              |  OSHWA Certification |
 | :-------------------------: | :-------------------------: |
-| <a href="LICENSE.md"><img src="graphics/misc/Licenses_facts.svg" width="400" alt="Open Source Licenses Facts"/></a>  | <a href="https://certification.oshwa.org/in000039.html"><img src="graphics/misc/OSHW_mark_IN000039.svg" width="300" alt="Open Source Hardware Certification mark"/></a> | 
+| <a href="LICENSE.md"><img src="graphics/misc/Licenses_facts.svg" width="400" alt="Open Source Licenses Facts"/></a>  | <a href="https://certification.oshwa.org/in000042.html"><img src="graphics/misc/OSHW_mark_IN000042.png" width="300" alt="Open Source Hardware Certification mark"/></a> | 
 
 #### Hardware
 CERN Open Hardware License Version 2 - Strongly Reciprocal ([CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)).
